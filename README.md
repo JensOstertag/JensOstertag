@@ -18,17 +18,23 @@
 
 **Recent Projects**
 
-🖨 Self-Constructed <a href="https://github.com/JensOstertag/BehemothPrinter">3D-Printer</a> <br>
-🤖 Self-Driving Robot <a href="https://github.com/JensOstertag/JEC">JEC</a> <br>
+🖨 <a href="https://github.com/JensOstertag/BehemothPrinter">Self-Constructed 3D-Printer</a> <br>
+🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
 🎥 <a href="https://github.com/JensOstertag/CameraBot">CameraBot</a> <br>
 🍪 <a href="https://github.com/JensOstertag/CookieConsent">CookieConsent</a> <br>
 <br>
 
 **Achievements and Certificates**
 
-📚 General University Entrance Qualification <br>
+<!-- **2021** -->
+
+📚 Abitur <br>
 ⚙️ MINT-EC Certificate acquired with Distinction <br>
-🌌 Abitur-Award of German Physical Society as Appreciation for very good Achievements in Physics as School Subject <br>
+🌌 Membership in German Physical Society as Recognition for very good Performance in Physics <br>
+
+<!-- **2020** -->
+
+<!-- 💻 "Jugend Forscht" Regional Contest (Mathematics / Computer Science) - Second Place <br> -->
 <br>
 
 **Social Media**
