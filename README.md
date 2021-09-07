@@ -2,7 +2,7 @@
 
 **About**
 
-👨‍💻 17 Years old <br>
+👨‍💻 18 Years old <br>
 📚 Buigen-Gymnasium <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
