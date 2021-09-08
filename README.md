@@ -3,7 +3,7 @@
 **About**
 
 👨‍💻 18 Years old <br>
-📚 Buigen-Gymnasium <br>
+📚 University of Ulm <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
 🔧 Web, Mobile, Physical Computing <br>
