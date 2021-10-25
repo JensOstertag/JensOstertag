@@ -39,6 +39,6 @@
 
 **Social Media**
 
-<a href="https://www.instagram.com/jenso.0709/">📸 Instagram</a> <br>
+<a href="https://www.instagram.com/jensostertag/">📸 Instagram</a> <br>
 <a href="https://stackoverflow.com/users/story/12130289">💻 StackOverflow</a> <br>
 💬 Discord: JensO07#2762
