@@ -3,7 +3,7 @@
 **About**
 
 👨‍💻 18 Years old <br>
-📚 University of Ulm <br>
+📚 University of Ulm / Software Engineering <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
 🔧 Web, Mobile, Physical Computing <br>
@@ -30,7 +30,7 @@
 
 📚 Abitur <br>
 ⚙️ MINT-EC Certificate acquired with Distinction <br>
-🌌 Membership in German Physical Society as Recognition for very good Performance in Physics <br>
+🌌 Membership in German Physical Society <br>
 
 <!-- **2020** -->
 
