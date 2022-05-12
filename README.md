@@ -28,7 +28,7 @@
 
 <!-- **2021** -->
 
-📚 Abitur <br>
+<!-- 📚 Abitur <br> -->
 ⚙️ MINT-EC Certificate acquired with Distinction <br>
 🌌 Membership in German Physical Society <br>
 
