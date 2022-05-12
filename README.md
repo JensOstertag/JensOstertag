@@ -6,7 +6,7 @@
 📚 University of Ulm / Software Engineering <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
-🔧 Web, Mobile, Physical Computing <br>
+🔧 Application, Web & Physical Computing <br>
 <br>
 
 **Interests**
