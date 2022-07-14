@@ -21,7 +21,7 @@
 🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Java Implementation of a Convolutional Neural Network</a> <br>
 🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Rework of IoT-WeatherStation</a> <br>
 🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
-📃 Some LaTeX Documents
+📃 Some LaTeX Documents <br>
 <br>
 
 **Achievements and Certificates**
