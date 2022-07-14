@@ -18,10 +18,10 @@
 
 **Recent Projects**
 
-🖨 <a href="https://github.com/JensOstertag/BehemothPrinter">Self-Constructed 3D-Printer</a> <br>
+🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Java Implementation of a Convolutional Neural Network</a> <br>
+🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Rework of IoT-WeatherStation</a> <br>
 🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
-🎥 <a href="https://github.com/JensOstertag/CameraBot">CameraBot</a> <br>
-🍪 <a href="https://github.com/JensOstertag/CookieConsent">CookieConsent</a> <br>
+📃 Some LaTeX Documents
 <br>
 
 **Achievements and Certificates**
