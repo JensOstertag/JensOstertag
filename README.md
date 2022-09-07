@@ -2,7 +2,7 @@
 
 **About**
 
-👨‍💻 18 Years old <br>
+👨‍💻 19 Years old <br>
 📚 University of Ulm / Software Engineering <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
