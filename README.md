@@ -11,7 +11,7 @@
 
 **Interests**
 
-💻 Computer Science <br>
+💻 Software Engineering and Computer Science <br>
 🌌 Physics <br>
 ⚙️ Science and Technology <br>
 <br>
