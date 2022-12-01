@@ -3,7 +3,7 @@
 **About**
 
 👨‍💻 19 Years old <br>
-📚 University of Ulm / Software Engineering <br>
+📚 Ulm University / Software Engineering <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
 🔧 Web & Application Development, Physical Computing <br>
@@ -18,6 +18,7 @@
 
 **Recent Projects**
 
+🌐 <a href="https://github.com/JensOstertag/jensostertag.github.io">Portfolio Website made with React</a> <br>
 🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Java Implementation of a Convolutional Neural Network</a> <br>
 🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Rework of IoT-WeatherStation</a> <br>
 🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
