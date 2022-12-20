@@ -41,4 +41,4 @@
 **Social Media**
 
 <a href="https://www.instagram.com/jensostertag/">📸 Instagram</a> <br>
-💬 Discord: JensO07#2762
+💬 Discord: JensO03#2762
