@@ -16,16 +16,20 @@
 ⚙️ Science and Technology <br>
 <br>
 
-**Recent Projects**
+**Latest and favourite Projects**
 
-🌐 <a href="https://github.com/JensOstertag/jensostertag.github.io">Portfolio Website made with React</a> <br>
 🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Java Implementation of a Convolutional Neural Network</a> <br>
-🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Rework of IoT-WeatherStation</a> <br>
+🌐 <a href="#">Web Development Framework</a> <br>
+🐘 <a href="#">Variuos Composer Libraries for PHP</a> <br>
+🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Re-Implementation for IoT-Weatherstation</a> <br>
 🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
-📃 Some LaTeX Documents <br>
 <br>
 
 **Achievements and Certificates**
+
+<!-- **2023** -->
+
+<!-- **2022** -->
 
 <!-- **2021** -->
 
@@ -40,5 +44,6 @@
 
 **Social Media**
 
+<a href="https://www.twitter.com/JensOstertag03/">🦤 Twitter</a> <sub><sup><sub>(Yes, the Dodo was intended)</sub></sup></sub><br>
 <a href="https://www.instagram.com/jensostertag/">📸 Instagram</a> <br>
-💬 Discord: JensO03#2762
+💬 Discord: jensostertag
