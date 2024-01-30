@@ -2,7 +2,7 @@
 
 **About**
 
-👨‍💻 20 Years old <br>
+👨‍💻 20 years old <br>
 📚 Ulm University / Software Engineering <br>
 🏠 Baden-Württemberg, Germany <br>
 🔧 Full Stack Developer <br>
@@ -11,21 +11,18 @@
 
 **Interests**
 
-💻 Software Engineering and Computer Science <br>
+💻 Software engineering and computer science <br>
 🌌 Physics <br>
-⚙️ Science and Technology <br>
+⚙️ Science and technology <br>
 <br>
 
-**Latest and favourite Projects**
+**Latest and favourite projects**
 
-🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Java Implementation of a Convolutional Neural Network</a> <br>
-🌐 <a href="#">Web Development Framework</a> <br>
-🐘 <a href="#">Variuos Composer Libraries for PHP</a> <br>
-🌡️ <a href="https://github.com/JensOstertag/IoT-WeatherStation">Re-Implementation for IoT-Weatherstation</a> <br>
-🤖 <a href="https://github.com/JensOstertag/JEC">Self-Driving Robot JEC</a> <br>
+🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Implementation of a convolutional neural network (Java)</a> <br>
+🌐 <a href="#">Web development framework</a> <br>
 <br>
 
-**Achievements and Certificates**
+**Achievements and certificates**
 
 <!-- **2023** -->
 
@@ -34,16 +31,16 @@
 <!-- **2021** -->
 
 <!-- 📚 Abitur <br> -->
-⚙️ MINT-EC Certificate acquired with Distinction <br>
+⚙️ MINT-EC certificate acquired with distinction <br>
 🌌 Membership in German Physical Society <br>
 
 <!-- **2020** -->
 
-<!-- 💻 "Jugend Forscht" Regional Contest (Mathematics / Computer Science) - Second Place <br> -->
+<!-- 💻 "Jugend Forscht" regional contest (mathematics / computer science) - Second place <br> -->
 <br>
 
-**Social Media**
+**Social media**
 
-<a href="https://www.twitter.com/JensOstertag03/">🦤 Twitter</a> <sub><sup><sub>(Yes, the Dodo was intended)</sub></sup></sub><br>
+<a href="https://www.twitter.com/JensOstertag03/">🦤 Twitter</a> <sub><sup><sub>(Yes, the dodo was intended)</sub></sup></sub><br>
 <a href="https://www.instagram.com/jensostertag/">📸 Instagram</a> <br>
 💬 Discord: jensostertag
