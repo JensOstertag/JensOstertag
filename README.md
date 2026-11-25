@@ -16,13 +16,13 @@
 ⚙️ Science and technology <br>
 <br>
 
-**Latest and favourite projects**
-
-🖼️ <a href="https://github.com/JensOstertag/ConvolutionalNeuralNetwork">Implementation of a convolutional neural network (Java)</a> <br>
-🌐 <a href="#">Web development framework</a> <br>
-<br>
-
 **Achievements and certificates**
+
+<!-- **2026** -->
+
+<!-- **2025** -->
+
+<!-- **2024** -->
 
 <!-- **2023** -->
 
@@ -41,6 +41,5 @@
 
 **Social media**
 
-<a href="https://www.twitter.com/JensOstertag03/">🦤 Twitter</a> <sub><sup><sub>(Yes, the dodo was intended)</sub></sup></sub><br>
 <a href="https://www.instagram.com/jensostertag/">📸 Instagram</a> <br>
 💬 Discord: jensostertag
